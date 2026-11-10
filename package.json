@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saketananddotme/ai-dev-toolkit.git"
+    "url": "git+https://github.com/saketananddotme/ai-coding-toolkit.git"
   },
-  "homepage": "https://github.com/saketananddotme/ai-dev-toolkit#readme",
-  "bugs": "https://github.com/saketananddotme/ai-dev-toolkit/issues",
+  "homepage": "https://github.com/saketananddotme/ai-coding-toolkit#readme",
+  "bugs": "https://github.com/saketananddotme/ai-coding-toolkit/issues",
   "keywords": [
     "ai",
     "cursor",
