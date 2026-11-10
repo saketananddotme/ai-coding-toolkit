@@ -7,7 +7,7 @@ Think `nvm` for AI skills: **install** any skill source from a git repo, then **
 ## Install
 
 ```bash
-npm install -g ai-toolkit
+npm install -g ai-coding-toolkit
 adt init
 ```
 
@@ -117,7 +117,7 @@ adt uninstall                     Interactive: removes every symlink, every .adt
                                   and the entire ~/.adt/ directory
 ```
 
-`npm uninstall -g ai-toolkit` also removes everything ADT created.
+`npm uninstall -g ai-coding-toolkit` also removes everything ADT created.
 
 ## Built-in sources
 
