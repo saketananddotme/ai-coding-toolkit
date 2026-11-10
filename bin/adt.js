@@ -1565,7 +1565,7 @@ ${C.cyan}Uninstall:${C.reset}
   adt uninstall                     Interactive: remove everything ADT created
 
 ${C.cyan}Install adt itself:${C.reset}
-  npm install -g ai-dev-toolkit
+  npm install -g ai-toolkit
 
 ${C.dim}Tip: scope is auto-detected. Inside a git repo or a directory with a .adt file,
 \`adt use foo\` writes project-local symlinks and updates .adt. Anywhere else it

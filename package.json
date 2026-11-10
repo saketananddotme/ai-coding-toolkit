@@ -1,5 +1,5 @@
 {
-  "name": "ai-dev-toolkit",
+  "name": "ai-toolkit",
   "version": "2.1.0",
   "description": "AI skill package manager for Cursor, Claude Code, and Codex",
   "bin": {
