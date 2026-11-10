@@ -1,5 +1,5 @@
 {
-  "name": "@saketananddotme/adt",
+  "name": "ai-dev-toolkit",
   "version": "2.1.0",
   "description": "AI skill package manager for Cursor, Claude Code, and Codex",
   "bin": {
@@ -20,16 +20,23 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saketanand/ai-dev-toolkit.git"
+    "url": "git+https://github.com/saketananddotme/ai-dev-toolkit.git"
   },
+  "homepage": "https://github.com/saketananddotme/ai-dev-toolkit#readme",
+  "bugs": "https://github.com/saketananddotme/ai-dev-toolkit/issues",
   "keywords": [
     "ai",
     "cursor",
     "claude",
+    "claude-code",
     "codex",
     "skills",
     "agents",
     "rules",
+    "hooks",
+    "slash-commands",
+    "package-manager",
+    "cli",
     "developer-tools"
   ],
   "publishConfig": {
